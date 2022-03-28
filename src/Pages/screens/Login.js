@@ -81,7 +81,7 @@ const styles = StyleSheet.create({
     marginTop: "5%"
   },
   link: {
-        flexDirection: "row",
+    flexDirection: "row",
     width: '80%',
     marginLeft: 8,
     alignContent: "center",
